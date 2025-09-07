@@ -53,7 +53,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>grocery-backend</finalName>
+	<finalName>backend-grocery</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
